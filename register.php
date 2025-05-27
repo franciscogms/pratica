@@ -12,6 +12,9 @@ email <input type="email" name="email" required><br><br>
 
 senha: <input type="password" name="senha" required><br><br>
 <!-- campo para o usuario digitar a senha. Obrigatorio (required) -->
+
+<button type="submit">Cadastrar</button>
+
 </form>
 <!-- fim do formulario -->
 
